@@ -1,5 +1,5 @@
 🚗 ParkEase: An Automated Parking System
-📍 Final Year Mini Project | Electronics and Communication Engineering | MBCET
+📍 third Year Mini Project | Electronics and Communication Engineering | MBCET
 🔍 Overview
 ParkEase is a smart, automated parking management system designed specifically for college campuses. It uses microcontrollers, sensors, and real-time communication to guide users to available slots, reduce congestion, and make parking simple, fast, and eco-friendly.
 
